@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @pranav1-git
-- 👀 I’m interested in coding and learning 
-- 🌱 I’m currently learning HTML , CSS And Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... by sending mail at pranavyaduv404@gmail.com
+- 👋 Hi, I’m Pranav Yaduvanshi
+- 👀 I’m interested in coding and building in Web Based Applications
 
 <!---
 pranav1-git/pranav1-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
